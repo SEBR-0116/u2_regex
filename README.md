@@ -24,11 +24,9 @@
 
 ## 1. Setup
 
-Today we're going to use the code playground, [codepen.io](http://codepen.io/pen/), to experiment with regular expressions in an HTML `<input>` element.
+1. Scaffold a new HTML, CSS, and JS project
 
-1. Create a new pen, and hide the JS pane.
-
-2. In the HTML pane, let's add a simple form:
+2. In your HTML file, let's add a simple form:
 
     ```html
     <form>
@@ -37,7 +35,7 @@ Today we're going to use the code playground, [codepen.io](http://codepen.io/pen
     </form>
     ```
 
-3. Put the following in the pen's CSS pane:
+3. Put the following in the your CSS file:
 
     ```css
     body {
@@ -423,9 +421,6 @@ The best way to continue to experiment and learn about more complex regular expr
 
 ## 7. Going Forward
 
-We've had fun learning about the core features regular expressions.
-
-Check out the Further Study and the Additional Practice Exercises sections if you wish to learn more.
 
 You will surely cross paths with regular expressions during your career as a developer. And when you do, as usual, Google and documentation will be your friend.
 
